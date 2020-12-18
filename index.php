@@ -78,7 +78,7 @@
     <div class="container" data-aos="zoom-out" data-aos-delay="100">
       <h1>INTERNATIONAL ASTRONOMY CONTEST <span>2020-21</span></h1>
       <div class="d-flex">
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfrscq4t-MJ7WKWZhZKlt5R0sUQqUaMBqLRCEnKOAUdq8x9Ow/viewform" class="btn-get-started scrollto">Apply as an ambassador</a>
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfrscq4t-MJ7WKWZhZKlt5R0sUQqUaMBqLRCEnKOAUdq8x9Ow/viewform" class="btn-get-started scrollto">Pre-registration</a>
       </div>
     </div>
   </section><!-- End Hero -->
@@ -234,9 +234,9 @@
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
-              <div class="icon"><img src="assets/img/KNOWLEDGE PARTNER.png" class="img-thumbnail"></div>
-              <h4><a href="">KNOWLEDGE PARTNER</a></h4>
-              <p>National Space Society</p>
+              <div class="icon"><img src="assets/img/tamil.webp" class="img-thumbnail"></div>
+              <h4><a href="">ASSOCIATE PARTNER</a></h4>
+              <p>Government of Tamilnadu</p>
             </div>
           </div>
 
@@ -266,9 +266,9 @@
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
-              <div class="icon"><img src="assets/img/tamil.webp" class="img-thumbnail"></div>
-              <h4><a href="">ASSOCIATE PARTNER</a></h4>
-              <p>Government of Tamilnadu</p>
+              <div class="icon"><img src="assets/img/KNOWLEDGE PARTNER.png" class="img-thumbnail"></div>
+              <h4><a href="">KNOWLEDGE PARTNER</a></h4>
+              <p>National Space Society</p>
             </div>
           </div>
 
